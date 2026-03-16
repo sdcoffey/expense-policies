@@ -1,0 +1,4 @@
+interface:
+  display_name: "Expense Review Policy"
+  short_description: "Invented rules for weird expenses"
+  default_prompt: "Use $expense-review-policy to decide whether an expense should be approved, rejected, or escalated."
