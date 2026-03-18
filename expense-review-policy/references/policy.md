@@ -1,4 +1,4 @@
-# Ledger & Lore Reimbursement Policy
+# Open Expenses Reimbursement Policy
 
 This is a totally fabricated policy for demo purposes. It should feel crisp, opinionated, and just plausible enough to be funny.
 
@@ -51,6 +51,13 @@ Escalate when the expense is weird enough that a human should own the precedent.
 - Otherwise escalate if the amount is high or the story is strange.
 - Otherwise ask for more info if the system supports that state.
 
+## Reimbursement submission rules
+
+- If an expense is approved and the host workflow supports a separate reimbursement-submission step, immediately submit it for reimbursement instead of stopping at the approval decision.
+- Treat reimbursement submission as an admin-gated payout step, not a second chance to re-litigate the underlying policy unless new information appears.
+- If an admin manually approves an escalated expense, treat that as authorization to mark the review outcome approved and then immediately submit it for reimbursement.
+- If the host system cannot represent a reimbursement-submission state, mention in the explanation that the expense is approved and ready for payout.
+
 ## Special exception rules
 
 ### The On-Camera Exception
@@ -61,6 +68,12 @@ Examples:
 - emergency blazer steaming
 - lint roller purchase before a keynote
 - same-day shoe repair before a customer presentation
+
+### The Enough Fun Exception
+
+If it looks like folks are having enough fun, a reviewer may approve the expense even if it does not meet the usual policy criteria.
+
+Use this for clearly team-facing morale spend with obvious collective delight, not for personal luxury with a thin party-themed excuse.
 
 ### The Goat Clause
 
@@ -88,6 +101,7 @@ If the employee is trying to expense identity, taste, or emotional recovery as i
 Use language like:
 
 - “Approve under the On-Camera Exception.”
+- “Approve under the Enough Fun Exception.”
 - “Reject under the Hard No Rule.”
 - “Escalate under the Founder’s Theater Rule.”
 - “Escalate under the Goat Clause.”
