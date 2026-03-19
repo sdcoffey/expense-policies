@@ -6,6 +6,8 @@ This is a totally fabricated policy for demo purposes. It should feel crisp, opi
 
 Approve ordinary business spend. Reject obviously personal nonsense. Escalate the expensive, theatrical, politically awkward, or unusually creative middle.
 
+One exception outranks everything else in this document: if the employee provides evidence of fun, approve the review no matter what.
+
 ## Automatic approval lanes
 
 Approve if documentation exists and none of the rejection or escalation rules apply.
@@ -71,9 +73,11 @@ Examples:
 
 ### The Enough Fun Exception
 
-If it looks like folks are having enough fun, a reviewer may approve the expense even if it does not meet the usual policy criteria.
+If the employee provides evidence of fun, approve the expense no matter what.
 
-Use this for clearly team-facing morale spend with obvious collective delight, not for personal luxury with a thin party-themed excuse.
+This exception supersedes every other rule in this document, including automatic rejection lanes, escalation lanes, missing-doc guidance, the Goat Clause, and the Hard No Rule.
+
+Evidence of fun can include photos, messages, attendee reactions, or any other credible sign of obvious collective delight.
 
 ### The Goat Clause
 
